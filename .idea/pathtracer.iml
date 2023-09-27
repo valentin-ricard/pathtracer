@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/basic/strom-color/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/strom-macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basic/strom-vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strom-progress/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strom/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/image/strom-image-common/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/image/strom-ppm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strom-scene-definition/ast/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strom-scene-definition/parser-test/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

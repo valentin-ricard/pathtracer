@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "basic/strom-vec", "basic/strom-color", "basic/strom-macro",
+    "image/strom-ppm", "image/strom-image-common",
+    "strom",
+    "strom-progress",
+    "strom-scene-definition/parser-test"
+]

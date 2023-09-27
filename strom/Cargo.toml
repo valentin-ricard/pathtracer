@@ -1,0 +1,16 @@
+[package]
+name = "strom"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+strom-progress = { path = "../strom-progress" }
+strom-color = { path = "../basic/strom-color"}
+
+[[example]]
+name = "ppm_export"
+
+[[example]]
+name = "crate_ppm_export"
